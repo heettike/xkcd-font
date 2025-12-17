@@ -17,7 +17,7 @@ interface Provider {
 const categories = [
   { value: 'agencies', label: 'Service Agencies' },
   { value: 'podcasters', label: 'Podcasters & Streamers' },
-  { value: 'ghostwriters', label: 'Ghostwriters & Growth' },
+  { value: 'kols', label: 'Key KOLs' },
   { value: 'filmmakers', label: 'Filmmakers & Creatives' },
   { value: 'market_makers', label: 'Market Makers' },
   { value: 'miscellaneous', label: 'Miscellaneous' },

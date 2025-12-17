@@ -77,7 +77,7 @@ model Provider {
   website     String
   avgPrice    String?
   bestWorkUrl String?
-  category    String   // Main category: agencies, podcasters, ghostwriters, filmmakers, market_makers, miscellaneous
+  category    String   // Main category: agencies, podcasters, kols, filmmakers, market_makers, miscellaneous
   subcategory String?  // Optional subcategory
   notes       String?  // Additional notes/description
   createdAt   DateTime @default(now())
